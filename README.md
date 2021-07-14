@@ -14,7 +14,7 @@ Requires the following:
 ```
 curl
 jq
-influx commmnad line
+influx commmand line
 ```
 
 Edit the script for your environment.
